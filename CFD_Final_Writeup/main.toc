@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Related Work}{3}{section.2}%
+\contentsline {section}{\numberline {3}Problem Formulation}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Staggered-Grid Discretization}{4}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Goals}{5}{section.4}%
+\contentsline {section}{\numberline {5}Timeline}{5}{section.5}%
+\contentsline {section}{References}{5}{section*.2}%

@@ -1,0 +1,181 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ghia1982high}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ae624d922375a4dd3ca9895b88a36f0b}{%
+           family={Ghia},
+           familyi={G\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=5a3ebc3007a3461e82fd301cc47b028a}{%
+           family={Ghia},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=939f2c02931e4438b32abf2639507c91}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \strng{fullhash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \strng{bibnamehash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \strng{authorbibnamehash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \strng{authornamehash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \strng{authorfullhash}{2f309e0af031967bd4d0d591f2e38bd6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{3}
+      \field{title}{High-Re solutions for incompressible flow using the Navier-Stokes equations and a multigrid method}
+      \field{volume}{48}
+      \field{year}{1982}
+      \field{pages}{387\bibrangedash 411}
+      \range{pages}{25}
+    \endentry
+    \entry{barragy1997streamfunction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b4bd3aa9f6f5c1c14aa48d609c777943}{%
+           family={Barragy},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0c057dd76e9b9ba9375d3a7d166de3a1}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{41fe4e2fa077a3de0782673374f1c474}
+      \strng{fullhash}{41fe4e2fa077a3de0782673374f1c474}
+      \strng{bibnamehash}{41fe4e2fa077a3de0782673374f1c474}
+      \strng{authorbibnamehash}{41fe4e2fa077a3de0782673374f1c474}
+      \strng{authornamehash}{41fe4e2fa077a3de0782673374f1c474}
+      \strng{authorfullhash}{41fe4e2fa077a3de0782673374f1c474}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Fluids}
+      \field{number}{1}
+      \field{title}{Stream function--vorticity driven cavity solution using p finite elements}
+      \field{volume}{26}
+      \field{year}{1997}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+    \entry{botella1998benchmark}{article}{}
+      \name{author}{2}{}{%
+        {{hash=36af6aacc51a23e59883b36582bdec7e}{%
+           family={Botella},
+           familyi={B\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=788f32b904ce5bc64caffafdb076e650}{%
+           family={Peyret},
+           familyi={P\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \strng{fullhash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \strng{bibnamehash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \strng{authorbibnamehash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \strng{authornamehash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \strng{authorfullhash}{4cb5fb4f203a1db4cc60586797ec3788}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Fluids}
+      \field{number}{4}
+      \field{title}{Benchmark spectral results on the lid-driven cavity flow}
+      \field{volume}{27}
+      \field{year}{1998}
+      \field{pages}{421\bibrangedash 433}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0045-7930(97)00004-2
+      \endverb
+    \endentry
+    \entry{wright1995efficient}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9cf1b0eec8d722cdaf4664f5eee049a1}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={N.\bibnamedelimi G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=52e66f59b877a5ab50eab6d0b16646b2}{%
+           family={Gaskell},
+           familyi={G\bibinitperiod},
+           given={P.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{75e22560de2741e7f51b0eaf7f58f341}
+      \strng{fullhash}{75e22560de2741e7f51b0eaf7f58f341}
+      \strng{bibnamehash}{75e22560de2741e7f51b0eaf7f58f341}
+      \strng{authorbibnamehash}{75e22560de2741e7f51b0eaf7f58f341}
+      \strng{authornamehash}{75e22560de2741e7f51b0eaf7f58f341}
+      \strng{authorfullhash}{75e22560de2741e7f51b0eaf7f58f341}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Fluids}
+      \field{number}{1}
+      \field{title}{An efficient multigrid approach to solving highly recirculating flows}
+      \field{volume}{24}
+      \field{year}{1995}
+      \field{pages}{63\bibrangedash 79}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/0045-7930(94)00017-S
+      \endverb
+    \endentry
+    \entry{mathworks_simple}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
+           family={{MathWorks}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{fullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{bibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorbibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authornamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorfullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.mathworks.com/help/pde/ug/semi-implicit-method-for-pressure-linked-equations-simple.html}}
+      \field{note}{Accessed: 2025-01-12}
+      \field{title}{Semi-Implicit Method for Pressure-Linked Equations (SIMPLE) — Solution in MATLAB}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
