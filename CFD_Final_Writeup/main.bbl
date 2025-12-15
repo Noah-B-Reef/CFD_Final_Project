@@ -154,27 +154,6 @@
       \verb 10.1016/0045-7930(94)00017-S
       \endverb
     \endentry
-    \entry{mathworks_simple}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
-           family={{MathWorks}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \strng{fullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \strng{bibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \strng{authorbibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \strng{authornamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \strng{authorfullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.mathworks.com/help/pde/ug/semi-implicit-method-for-pressure-linked-equations-simple.html}}
-      \field{note}{Accessed: 2025-01-12}
-      \field{title}{Semi-Implicit Method for Pressure-Linked Equations (SIMPLE) — Solution in MATLAB}
-      \field{year}{2023}
-    \endentry
   \enddatalist
 \endrefsection
 \endinput

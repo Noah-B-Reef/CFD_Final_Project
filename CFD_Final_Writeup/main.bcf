@@ -2369,7 +2369,6 @@
     <bcf:citekey order="2" intorder="1">barragy1997streamfunction</bcf:citekey>
     <bcf:citekey order="3" intorder="1">botella1998benchmark</bcf:citekey>
     <bcf:citekey order="4" intorder="1">wright1995efficient</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">mathworks_simple</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
